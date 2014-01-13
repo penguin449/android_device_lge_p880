@@ -131,3 +131,9 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.boot.selinux=permissive
 
 $(call inherit-product, vendor/lge/p880/p880-vendor.mk)
+
+PRODUCT_DEVICE := p880
+PRODUCT_NAME := cm_p880
+PRODUCT_BRAND := LG
+PRODUCT_MODEL := LG-P880
+PRODUCT_MANUFACTURER := LGE
