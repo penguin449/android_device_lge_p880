@@ -133,6 +133,7 @@ PRODUCT_PACKAGES += \
     camera.tegra \
     libstagefrighthw \
     lights.x3 \
+    libnvcpud_client \
     nfc.x3
 
 PRODUCT_COPY_FILES += \
