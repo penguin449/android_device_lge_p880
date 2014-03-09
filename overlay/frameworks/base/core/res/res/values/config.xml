@@ -25,7 +25,7 @@
     <bool name="config_animateScreenLights">false</bool>
 
     <!-- If this is true, key chords can be used to take a screen record on the device. -->
-    <bool name="config_enableScreenrecordChord">false</bool>
+<!--    <bool name="config_enableScreenrecordChord">false</bool> -->
 
     <string-array translatable="false" name="config_tether_usb_regexs">
         <item>"rndis0"</item>
@@ -122,7 +122,7 @@
     <bool name="config_automatic_brightness_available">true</bool>
 
     <!-- Boolean indicating whether we want button brightness support -->
-    <bool name="config_button_brightness_support">true</bool>
+<!--    <bool name="config_button_brightness_support">true</bool> -->
 
     <integer-array name="config_autoBrightnessLevels">
         <item>13</item>
@@ -227,7 +227,7 @@
             16 - App switch
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
-    <integer name="config_deviceHardwareKeys">7</integer>
+<!--    <integer name="config_deviceHardwareKeys">7</integer> -->
 
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">true</bool>
