@@ -15,8 +15,8 @@
 #
 
 # Boot animation
-TARGET_SCREEN_HEIGHT := 1920
-TARGET_SCREEN_WIDTH := 1080
+TARGET_SCREEN_HEIGHT := 1280
+TARGET_SCREEN_WIDTH := 720
 
 # Get the prebuilt list of APNs
 $(call inherit-product, vendor/thinkingbridge/config/gsm.mk)
