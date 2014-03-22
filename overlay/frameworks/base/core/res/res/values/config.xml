@@ -85,7 +85,7 @@
     The default represents a dual-mode smartphone -->
     <string translatable="false" name="config_wifi_p2p_device_type">1-0050F204-1</string>
 
-    <bool name="config_disableMenuKeyInLockScreen">true</bool>
+    <!--bool name="config_disableMenuKeyInLockScreen">true</bool-->
 
     <bool name="config_automatic_brightness_available">true</bool>
 
@@ -185,7 +185,7 @@
     <bool name="config_animateScreenLights">false</bool>
 
     <!-- Device supports LED flashlight -->
-    <bool name="config_enableTorch">true</bool>
+    <!--bool name="config_enableTorch">true</bool-->
 
     <!-- Indicate whether the SD card is accessible without removing the battery. -->
     <bool name="config_batterySdCardAccessibility">true</bool>
