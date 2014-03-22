@@ -1,0 +1,12 @@
+[
+    {
+        "repository": "P880-dev/android_kernel_lge_x3",
+        "target_path": "kernel/lge/x3",
+        "branch": "cm-11.0"
+    },
+    {
+        "repository": "P880-dev/proprietary_vendor_lge",
+        "target_path": "vendor/lge",
+        "branch": "cm-11.0"
+    }
+]
